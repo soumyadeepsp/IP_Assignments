@@ -1,4 +1,4 @@
-Simport os
+import os
 file = open(os.getcwd()+'/Q4/Admin/'+'AnswerKey.txt', 'r')
 text = file.read()
 file.close()
